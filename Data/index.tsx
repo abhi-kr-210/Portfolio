@@ -86,7 +86,7 @@ export const techstack = [
       icon:"/postman.svg"
      },{
       name:"AI/ML/DL",
-      icon:"/ai.svg"
+      icon:"/ml.svg"
      }
 ]
 export const gridItems = [
