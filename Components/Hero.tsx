@@ -9,7 +9,7 @@ import { FaLocationArrow } from 'react-icons/fa';
 import Image from 'next/image';
 function Hero() {
   return (
-    <div className='relative pt-0 h-screen overflow-hidden min-w-[100%] flex items-center justify-center pb-10 sm:pb-0 '>
+    <div className='relative pt-0  overflow-hidden min-w-[100%] flex items-center justify-center sm:pb-0 '>
         
       
 
