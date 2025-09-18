@@ -26,10 +26,10 @@ function Hero() {
       />
       
 
-      <div className=" flex h-screen w-full items-center justify-center bg-white
+      <div className=" flex h-full w-full items-center justify-center bg-white
        dark:bg-gray-950  absolute top-0 left-0">
 
-      <BackgroundBeamsWithCollision   className="absolute inset-0 z-10 pointer-events-none">
+      <BackgroundBeamsWithCollision   className="absolute inset-0 z-10 pointer-events-none ">
         <div className="relative">
         </div>
       </BackgroundBeamsWithCollision>
