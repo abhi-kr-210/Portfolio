@@ -194,10 +194,10 @@ export const AnimatedTestimonials = ({
                       href={testimonials[active].github}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2 text-[10px]
+                      className="flex items-center gap-2 text-[12px]
                       sm:text-sm  text-[#a0d8d1] hover:text-white transition-colors font-semibold"
                     >
-                      <FaGithub size={24} className="w-4 h-4 sm:w-6 sm:h-6 "/>  
+                      <FaGithub size={24} className="w-5 h-5 sm:w-6 sm:h-6 "/>  
                     View on GitHub
                   </a>
                 </div>
